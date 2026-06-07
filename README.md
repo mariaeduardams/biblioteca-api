@@ -3,7 +3,9 @@
 # Integrantes:
 
 -João Victor Soares
+
 -Lucas Luna Accioly Cruz
+
 -Maria Eduarda Maia Santos
 
 API REST desenvolvida em Java com Spring Boot para gerenciamento de livros.
